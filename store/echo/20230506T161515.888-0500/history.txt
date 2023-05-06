@@ -1,0 +1,98 @@
+0	:invoke	:echo	"Please echo 116"
+0	:info	:echo	"Please echo 116"	[:crash unexpected end of JSON input]
+1	:invoke	:echo	"Please echo 77"
+1	:info	:echo	"Please echo 77"	[:crash unexpected end of JSON input]
+2	:invoke	:echo	"Please echo 12"
+2	:info	:echo	"Please echo 12"	[:crash unexpected end of JSON input]
+3	:invoke	:echo	"Please echo 45"
+3	:info	:echo	"Please echo 45"	[:crash unexpected end of JSON input]
+4	:invoke	:echo	"Please echo 107"
+4	:info	:echo	"Please echo 107"	[:crash unexpected end of JSON input]
+5	:invoke	:echo	"Please echo 59"
+5	:info	:echo	"Please echo 59"	[:crash unexpected end of JSON input]
+6	:invoke	:echo	"Please echo 122"
+6	:info	:echo	"Please echo 122"	[:crash unexpected end of JSON input]
+7	:invoke	:echo	"Please echo 75"
+7	:info	:echo	"Please echo 75"	[:crash unexpected end of JSON input]
+8	:invoke	:echo	"Please echo 89"
+8	:info	:echo	"Please echo 89"	[:crash unexpected end of JSON input]
+9	:invoke	:echo	"Please echo 110"
+9	:info	:echo	"Please echo 110"	[:crash unexpected end of JSON input]
+10	:invoke	:echo	"Please echo 82"
+10	:info	:echo	"Please echo 82"	[:crash unexpected end of JSON input]
+11	:invoke	:echo	"Please echo 83"
+11	:info	:echo	"Please echo 83"	[:crash unexpected end of JSON input]
+12	:invoke	:echo	"Please echo 93"
+12	:info	:echo	"Please echo 93"	[:crash unexpected end of JSON input]
+13	:invoke	:echo	"Please echo 112"
+13	:info	:echo	"Please echo 112"	[:crash unexpected end of JSON input]
+14	:invoke	:echo	"Please echo 82"
+14	:info	:echo	"Please echo 82"	[:crash unexpected end of JSON input]
+15	:invoke	:echo	"Please echo 91"
+15	:info	:echo	"Please echo 91"	[:crash unexpected end of JSON input]
+16	:invoke	:echo	"Please echo 91"
+16	:info	:echo	"Please echo 91"	[:crash unexpected end of JSON input]
+17	:invoke	:echo	"Please echo 33"
+17	:info	:echo	"Please echo 33"	[:crash unexpected end of JSON input]
+18	:invoke	:echo	"Please echo 28"
+18	:info	:echo	"Please echo 28"	[:crash unexpected end of JSON input]
+19	:invoke	:echo	"Please echo 8"
+19	:info	:echo	"Please echo 8"	[:crash unexpected end of JSON input]
+20	:invoke	:echo	"Please echo 103"
+20	:info	:echo	"Please echo 103"	[:crash unexpected end of JSON input]
+21	:invoke	:echo	"Please echo 79"
+21	:info	:echo	"Please echo 79"	[:crash unexpected end of JSON input]
+22	:invoke	:echo	"Please echo 21"
+22	:info	:echo	"Please echo 21"	[:crash unexpected end of JSON input]
+23	:invoke	:echo	"Please echo 123"
+23	:info	:echo	"Please echo 123"	[:crash unexpected end of JSON input]
+24	:invoke	:echo	"Please echo 64"
+24	:info	:echo	"Please echo 64"	[:crash unexpected end of JSON input]
+25	:invoke	:echo	"Please echo 66"
+25	:info	:echo	"Please echo 66"	[:crash unexpected end of JSON input]
+26	:invoke	:echo	"Please echo 63"
+26	:info	:echo	"Please echo 63"	[:crash unexpected end of JSON input]
+27	:invoke	:echo	"Please echo 122"
+27	:info	:echo	"Please echo 122"	[:crash unexpected end of JSON input]
+28	:invoke	:echo	"Please echo 69"
+28	:info	:echo	"Please echo 69"	[:crash unexpected end of JSON input]
+29	:invoke	:echo	"Please echo 72"
+29	:info	:echo	"Please echo 72"	[:crash unexpected end of JSON input]
+30	:invoke	:echo	"Please echo 123"
+30	:info	:echo	"Please echo 123"	[:crash unexpected end of JSON input]
+31	:invoke	:echo	"Please echo 119"
+31	:info	:echo	"Please echo 119"	[:crash unexpected end of JSON input]
+32	:invoke	:echo	"Please echo 66"
+32	:info	:echo	"Please echo 66"	[:crash unexpected end of JSON input]
+33	:invoke	:echo	"Please echo 13"
+33	:info	:echo	"Please echo 13"	[:crash unexpected end of JSON input]
+34	:invoke	:echo	"Please echo 39"
+34	:info	:echo	"Please echo 39"	[:crash unexpected end of JSON input]
+35	:invoke	:echo	"Please echo 65"
+35	:info	:echo	"Please echo 65"	[:crash unexpected end of JSON input]
+36	:invoke	:echo	"Please echo 42"
+36	:info	:echo	"Please echo 42"	[:crash unexpected end of JSON input]
+37	:invoke	:echo	"Please echo 121"
+37	:info	:echo	"Please echo 121"	[:crash unexpected end of JSON input]
+38	:invoke	:echo	"Please echo 68"
+38	:info	:echo	"Please echo 68"	[:crash unexpected end of JSON input]
+39	:invoke	:echo	"Please echo 67"
+39	:info	:echo	"Please echo 67"	[:crash unexpected end of JSON input]
+40	:invoke	:echo	"Please echo 122"
+40	:info	:echo	"Please echo 122"	[:crash unexpected end of JSON input]
+41	:invoke	:echo	"Please echo 56"
+41	:info	:echo	"Please echo 56"	[:crash unexpected end of JSON input]
+42	:invoke	:echo	"Please echo 105"
+42	:info	:echo	"Please echo 105"	[:crash unexpected end of JSON input]
+43	:invoke	:echo	"Please echo 98"
+43	:info	:echo	"Please echo 98"	[:crash unexpected end of JSON input]
+44	:invoke	:echo	"Please echo 11"
+44	:info	:echo	"Please echo 11"	[:crash unexpected end of JSON input]
+45	:invoke	:echo	"Please echo 92"
+45	:info	:echo	"Please echo 92"	[:crash unexpected end of JSON input]
+46	:invoke	:echo	"Please echo 79"
+46	:info	:echo	"Please echo 79"	[:crash unexpected end of JSON input]
+47	:invoke	:echo	"Please echo 34"
+47	:info	:echo	"Please echo 34"	[:crash unexpected end of JSON input]
+48	:invoke	:echo	"Please echo 75"
+48	:info	:echo	"Please echo 75"	[:crash unexpected end of JSON input]

@@ -1,0 +1,7 @@
+panic: assignment to entry in nil map
+
+goroutine 1 [running]:
+github.com/jepsen-io/maelstrom/demo/go.(*Node).Handle(0xc00010c000, {0x10e60bd, 0x4}, 0xc000014370)
+	/Users/yawarjamal/go/pkg/mod/github.com/jepsen-io/maelstrom/demo/go@v0.0.0-20230424133947-f6f4fd0d64fe/node.go:71 +0x6e
+main.main()
+	/Users/yawarjamal/projects/maelpher/main.go:13 +0x7c

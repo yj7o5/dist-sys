@@ -1,0 +1,6 @@
+github.com/jepsen-io/maelstrom v0.0.0-20230424133947-f6f4fd0d64fe h1:1pQk1KlXrz21nsuh1FhKiz6H5mokqS8PbducnwH+K8Y=
+github.com/jepsen-io/maelstrom v0.0.0-20230424133947-f6f4fd0d64fe/go.mod h1:0wdJx4tJ+pnB1wHX4ZzRzkrppLt9qVQvNRax7fHKs44=
+github.com/jepsen-io/maelstrom v0.2.3 h1:fuTXq2OeNsFCpBhxZYPGmsThNCeBp3up3S0kQ3jyMzY=
+github.com/jepsen-io/maelstrom v0.2.3/go.mod h1:0wdJx4tJ+pnB1wHX4ZzRzkrppLt9qVQvNRax7fHKs44=
+github.com/jepsen-io/maelstrom/demo/go v0.0.0-20230424133947-f6f4fd0d64fe h1:gjKUfpOmJUEq3HgWI6fVDE5pvcVs/wqI2g9B5ppm+so=
+github.com/jepsen-io/maelstrom/demo/go v0.0.0-20230424133947-f6f4fd0d64fe/go.mod h1:i6aVIs5AIOOaQF1lAisBm7DDeWM1Iopf+26UxjagsCU=
